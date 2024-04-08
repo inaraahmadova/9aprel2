@@ -1,0 +1,15 @@
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\9aprel2.csproj.AssemblyReference.cache
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\9aprel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\9aprel2.AssemblyInfoInputs.cache
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\9aprel2.AssemblyInfo.cs
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\9aprel2.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\bin\Debug\net6.0\9aprel2.exe
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\bin\Debug\net6.0\9aprel2.deps.json
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\bin\Debug\net6.0\9aprel2.runtimeconfig.json
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\bin\Debug\net6.0\9aprel2.dll
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\bin\Debug\net6.0\9aprel2.pdb
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\9aprel2.dll
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\refint\9aprel2.dll
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\9aprel2.pdb
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\9aprel2.genruntimeconfig.cache
+C:\Users\ca.r214.04\Desktop\ConsoleApp18\.vs\9aprel2\9aprel2\obj\Debug\net6.0\ref\9aprel2.dll
